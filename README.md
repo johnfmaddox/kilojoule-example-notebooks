@@ -1,1 +1,1 @@
-# kilojoule-example-notebooks
+# kilojoule-notebooks
