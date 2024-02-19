@@ -1,0 +1,22 @@
+{
+    "A_s": {
+        "hashes": [
+            "5b6866b3073faecdfce8d912e3f3e487"
+        ],
+        "first_sigfig_hashes": [
+            "dd93b9af98fa6e8372260b80fd0c6afc"
+        ],
+        "units": "<Unit('meter ** 2')>",
+        "sigfigs": 4
+    },
+    "q": {
+        "hashes": [
+            "f1a368e0653938ca815db6cbb8287b01"
+        ],
+        "first_sigfig_hashes": [
+            "62dca49f0781bf26b4305bddb0414bea"
+        ],
+        "units": "<Unit('watt')>",
+        "sigfigs": 4
+    }
+}
