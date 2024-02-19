@@ -6,9 +6,9 @@ The goal of the `kilojoule` library is to improve the user experience while perf
 
 You can try out it out yourself by clicking one of the following links to lauch a live, intractive environment in your browser through Binder.
 
-* Current Stable Release: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnfmaddox/kilojoule-binder/HEAD?urlpath=git-pull?repo=https://github.com/johnfmaddox/kilojoule-notebooks?labpath=Start+Here.ipynb)
+* Current Stable Release: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnfmaddox/kilojoule-binder/HEAD?urlpath=git-pull?repo=https://github.com/johnfmaddox/kilojoule-notebooks)
 
-* Current Development Release: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnfmaddox/kilojoule-binder/devel?urlpath=git-pull?repo=https://github.com/johnfmaddox/kilojoule-example-notebooks?labpath=Start+Here.ipynb)
+* Current Development Release: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnfmaddox/kilojoule-binder/devel?urlpath=git-pull?repo=https://github.com/johnfmaddox/kilojoule-example-notebooks)
 
 The Binder environment will reset each time you close it, so you will need to download any changes you want to keep. If you find this library useful, you can install it from the [Python Package Index (PyPi)](https://pypi.org/project/kilojoule/)
 
